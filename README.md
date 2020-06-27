@@ -2,7 +2,6 @@
 Tasks for compression course
 
 ## lab 1
-
 The program will calculate the frequency of symbols occurrence and the frequency of symbols occurring after a given one, and has functions that will calculate entropy and conditional entropy for calculated frequencies treated as random variables.
 
 ## lab 2
